@@ -30,7 +30,7 @@ I am a strong Tech enthusiast, and I am currently pursuing my passion at Decagon
 My goal is to secure a career opportunity that will allow me to expand upon my current skill set while contributing to a company's success. Currently seeking a full-time position, to acquire new skills and experience.
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [folukeabogoh@gmail.com](mailto:folukeabogoh@gmail.com)
+* ✉️  You can contact me at [abogohclementina@gmail.com](mailto:abogohclementina@gmail.com)
 * 🚀  I'm currently working on [A Convenience Store app](http://github.com/Clementina-dev/Department-Store)
 * 🧠  I'm currently learning Java
 * 🤝  I'm open to collaborating on Java-related Projects

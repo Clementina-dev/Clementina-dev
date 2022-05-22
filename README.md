@@ -28,6 +28,7 @@ I am a dedicated, results-oriented, and organized Individual, with a First Degre
 * 🚀  I'm currently working on [A Convenience Store app](http://github.com/Clementina-dev/Department-Store)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Java-related Projects
+* 🤔  I’m looking for help with React
 * ⚡  I love to travel and I am an avid lover of the Opera and Arts
 
 <a href="https://www.twitter.com/Clementina Abogoh" target="_blank" rel="noreferrer"><img

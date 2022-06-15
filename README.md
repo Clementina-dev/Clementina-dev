@@ -31,7 +31,7 @@ My goal is to secure a career opportunity that will allow me to expand upon my c
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [abogohclementina@gmail.com](mailto:abogohclementina@gmail.com)
-* 🚀  I'm currently working on [A Convenience Store app](http://github.com/Clementina-dev/Department-Store)
+* 🚀  I'm currently working on [A Multi-client Chat App](https://github.com/Clementina-dev/Multiple-Client-Chat-App)
 * 🧠  I'm currently learning Java
 * 🤝  I'm open to collaborating on Java-related Projects
 * 🤔  I’m looking for help with React

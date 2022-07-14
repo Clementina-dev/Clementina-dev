@@ -21,11 +21,11 @@ Hi 👋 My name is Clementina Chidinma Abogoh
 Software Engineer
 -----------------
 
-I am a dedicated, results-oriented, and organized Individual, with a First Degree in Microbiology from Novena University, and I am currently a Full-Scholarship student at Decagon Institute. 
+I am a dedicated, results-oriented, and organized Individual, with a First Degree in Microbiology from Novena University, and a Full-Scholarship student at Decagon Institute. 
 
 Over the years, I have also acquired certifications such as the Jobberman Soft-Skills certificate, and the Novelle Center Human Resources certificate in affiliation with Rahn Wesley Institute of Management, amongst others, and I have developed strong interpersonal skills that facilitate communication among peers and staff to ensure client satisfaction in the workplace.
 
-I am a strong Tech enthusiast, and I am currently pursuing my passion at Decagon Institute, with my current stack of study being Java. I am also a Language lover with a diploma in the German language. I hope to achieve fluency soon and learn more languages because I believe there is beauty in our diversity and Language is the roadmap of a culture.
+I am a strong Tech enthusiast, and I am currently pursuing my passion at Decagon Institute, with my current language being Java. I am also a Language lover with a diploma in the German language. I hope to achieve fluency soon and learn more languages because I believe there is beauty in our diversity and Language is the roadmap of a culture.
 
 My goal is to secure a career opportunity that will allow me to expand upon my current skill set while contributing to a company's success. Currently seeking a full-time position, to acquire new skills and experience.
 

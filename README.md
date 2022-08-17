@@ -21,21 +21,20 @@ Hi 👋 My name is Clementina Chidinma Abogoh
 Software Engineer
 -----------------
 
-I am a dedicated, results-oriented, and organized Individual, with a First Degree in Microbiology from Novena University, and a Full-Scholarship student at Decagon Institute. 
+I am a dedicated, results-oriented, and technically-insightful Software Engineer, polished in optimizing systems to address dynamic needs, and always impelled to learning new technologies, with a First Degree in Microbiology from Novena University.
 
-Over the years, I have also acquired certifications such as the Jobberman Soft-Skills certificate, and the Novelle Center Human Resources certificate in affiliation with Rahn Wesley Institute of Management, amongst others, and I have developed strong interpersonal skills that facilitate communication among peers and staff to ensure client satisfaction in the workplace.
+I am a strong Tech enthusiast, and I am currently pursuing my passion at Decagon.
 
-I am a strong Tech enthusiast, and I am currently pursuing my passion at Decagon Institute, with my current language being Java. I am also a Language lover with a diploma in the German language. I hope to achieve fluency soon and learn more languages because I believe there is beauty in our diversity and Language is the roadmap of a culture.
+Over the years, I have honed my analytical thinking skills and collaboration skills, also acquiring certifications such as the Jobberman Soft-Skills certification, the Rahn Wesley Institute of Management Human Resources and Emotional Intelligence certification, amongst others, therby, developing strong relationship-building skills that facilitate communication among peers and staff to ensure client satisfaction in the workplace.
 
 My goal is to secure a career opportunity that will allow me to expand upon my current skill set while contributing to a company's success. Currently seeking a full-time position, to acquire new skills and experience.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [abogohclementina@gmail.com](mailto:abogohclementina@gmail.com)
 * 🚀  I'm currently working on [A Fintech App](#)
-* 🧠  I'm currently learning Java
+* 🧠  I'm a Product Engineer
 * 🤝  I'm open to collaborating on Java-related Projects
-* 🤔  I’m looking for help with React
-* ⚡  Fun fact: I love to travel and I am an avid lover of the Opera and Arts
+* ⚡  Fun fact: I am a language lover with a Diploma in the German language. I also love to travel and I am an avid lover of the Opera and Arts
 
 <a href="https://www.twitter.com/Clementina Abogoh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Clementina Abogoh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

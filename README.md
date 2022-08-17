@@ -20,11 +20,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a dedicated, results-oriented, and technically-insightful Software Engineer, polished in optimizing systems to address dynamic needs, and always impelled to learning new technologies, with a First Degree in Microbiology from Novena University.
+I am a dedicated, results-oriented, and technically-insightful Software Engineer, polished in optimizing systems to address dynamic needs, and always impelled to learn new technologies, with a First Degree in Microbiology from Novena University.
 
 I am a strong Tech enthusiast, and I am currently pursuing my passion at Decagon.
 
-Over the years, I have honed my analytical thinking skills and collaboration skills, also acquiring certifications such as the Jobberman Soft-Skills certification, the Rahn Wesley Institute of Management Human Resources and Emotional Intelligence certification, amongst others, therby, developing strong relationship-building skills that facilitate communication among peers and staff to ensure client satisfaction in the workplace.
+Over the years, I have honed my analytical thinking skills and collaboration skills, also acquiring certifications such as the Jobberman Soft-Skills certification, the Rahn Wesley Institute of Management Human Resources and Emotional Intelligence certification, amongst others, thereby, developing strong relationship-building skills that facilitate communication among peers and staff to ensure client satisfaction in the workplace.
 
 My goal is to secure a career opportunity that will allow me to expand upon my current skill set while contributing to a company's success. Currently seeking a full-time position, to acquire new skills and experience.
 

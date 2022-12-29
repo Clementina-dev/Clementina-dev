@@ -22,7 +22,7 @@ Software Engineer
 
 I am a dedicated, results-oriented, and technically-insightful Software Engineer, polished in optimizing systems to address dynamic needs, and always impelled to learn new technologies, with a First Degree in Microbiology from Novena University.
 
-I am a strong Tech enthusiast, and I am currently pursuing my passion as a Software Engineer at Decagon.
+I am a strong Tech enthusiast, and I am currently pursuing my passion as a Software Engineer at Access Bank, Nigeria.
 
 Over the years, I have honed my analytical thinking skills and collaboration skills, also acquiring certifications such as the Jobberman Soft-Skills certification, the Rahn Wesley Institute of Management Human Resources and Emotional Intelligence certification, amongst others, thereby, developing strong relationship-building skills that facilitate communication among peers and staff to ensure client satisfaction in the workplace.
 

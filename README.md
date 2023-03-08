@@ -30,9 +30,9 @@ My goal is to secure a career opportunity that will allow me to expand upon my c
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [abogohclementina@gmail.com](mailto:abogohclementina@gmail.com)
-* 🚀  I'm currently working on [A Fintech App](#)
+* 🚀  I'm currently working on [TradePlus Nigeria](#)
 * 🧠  I'm a Product Engineer
-* 🤝  I'm open to collaborating on Java-related Projects
+* 🤝  I'm open to collaborating on .NET(C#) and Java-related Projects
 * ⚡  Fun fact: I am a language lover with a Diploma in the German language. I also love to travel and I am an avid lover of the Opera and Arts
 
 <a href="https://www.twitter.com/Clementina Abogoh" target="_blank" rel="noreferrer"><img

@@ -1,9 +1,9 @@
 # Clementina Chidinma Abogoh
 
-.NET Developer (C#) • Backend APIs • Payments & Integrations • Production Support (RCA)  
+.NET Developer (C#) • Backend APIs • Payments/Fintech • Production Support (RCA)  
 Lagos, Nigeria
 
-I’m a backend-focused .NET developer who enjoys building reliable services—clean APIs, structured logging, and systems that are stable in production. I’m especially interested in payments, integrations, and platforms that require correctness, security, and great operational support.
+I’m a backend-focused .NET developer who enjoys building reliable services—clean APIs, structured logging, and systems that behave well in production. My experience spans both **general backend engineering** (API design, databases, background jobs) and **payments/fintech** (partner integrations, transaction flows, operational stability).
 
 ## Highlights (real-world impact)
 - Supported and enhanced a **multi-country trade platform** used across **Nigeria, Cameroon, and Botswana**, covering workflows such as **Form M**, **Bills of Acknowledgement**, **Guarantees**, and import/export processing.
@@ -23,11 +23,11 @@ I’m a backend-focused .NET developer who enjoys building reliable services—c
 - **Containers:** Docker (familiar), Kubernetes (exposure)
 
 ## What I’m building (public portfolio)
-I’m currently building public projects around:
-- payment APIs (idempotency, validation, reliability)
-- partner integration simulations (retries/timeouts/circuit breakers)
-- background jobs and outbox patterns (Hangfire)
-- production support playbooks (RCA templates, runbooks, logging patterns)
+I’m building a portfolio that combines **fintech-style systems** with **general backend patterns**, including:
+- **Payment APIs:** idempotency, validation, error handling, reconciliation-friendly models
+- **Partner integration simulations:** retries/timeouts/circuit breakers, correlation IDs, safe logging
+- **Background jobs & reliability patterns:** Hangfire, outbox patterns, message processing
+- **Production support playbooks:** RCA templates, runbooks, troubleshooting checklists
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/clementina-abogoh-8a27a81b3
